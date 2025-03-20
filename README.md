@@ -26,7 +26,7 @@ Junior Full Stack Developer and IT professional with experience in enterprise do
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,sqlite)](https://skillicons.dev)
 
 ## Front-End
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,react,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,npm,react,redux,vite,tailwind)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,docker,)](https://skillicons.dev)
